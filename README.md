@@ -1,5 +1,5 @@
 # Flutter-
 
-*Flutter is a bunch of widgets  
+*Flutter's app is a bunch of widgets  
 
 
